@@ -1,0 +1,5 @@
+#contributor : angtsusiong
+#key : bs
+#name : button submit
+# --
+<button type="submit" class="btn btn-success"><%= t('helpers.submit.save') %></button>$0

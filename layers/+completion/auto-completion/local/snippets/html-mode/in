@@ -1,0 +1,5 @@
+#contributor : angtsusiong
+#key : in
+#name : <%= t('...') %>
+# --
+<%= t('$1') %>$0

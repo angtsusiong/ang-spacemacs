@@ -1,0 +1,5 @@
+#contributor : angtsusiong
+#key : ihei
+#name : <%= t('helpers.page_title.edit_item', model: t('activerecord.models...'), item: ...) %>
+# --
+<%= t('helpers.page_title.edit_item', model: t('activerecord.models.$1'), item: $2 ) %>$0

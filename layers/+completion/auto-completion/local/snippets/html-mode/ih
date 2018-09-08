@@ -1,0 +1,5 @@
+#contributor : angtsusiong
+#key : ih
+#name : <%= t('helpers...') %>
+# --
+<%= t('helpers.$1') %>$0

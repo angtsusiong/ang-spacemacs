@@ -1,0 +1,5 @@
+#contributor : angtsusiong
+#key : iam
+#name : <%= t('activerecord.medels...') %>
+# --
+<%= t('activerecord.models.$1') %>$0

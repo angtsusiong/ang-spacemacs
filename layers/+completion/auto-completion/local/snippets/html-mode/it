@@ -1,0 +1,5 @@
+#contributor : angtsusiong
+#key : it
+#name : t('...')
+# --
+t('$1')$0

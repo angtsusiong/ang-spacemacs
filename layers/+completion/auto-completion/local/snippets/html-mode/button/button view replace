@@ -1,5 +1,5 @@
 #contributor : angtsusiong
-#key : 'View'
-#name : button view replace
+#key : action
+#name : replace action to button
 # --
-t('button.show')$0
+button$0

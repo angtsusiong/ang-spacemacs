@@ -1,0 +1,5 @@
+#contributor : angtsusiong
+#key : ihs
+#name : <%= t('helpers.is', model: t('activerecord.attributes....')) %>
+# --
+<%= t('helpers.is', model: t('activerecord.attributes.$1')) %>

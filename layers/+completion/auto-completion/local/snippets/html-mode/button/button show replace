@@ -1,0 +1,5 @@
+#contributor : angtsusiong
+#key : 'Show'
+#name : button show replace
+# --
+t('button.show')$0

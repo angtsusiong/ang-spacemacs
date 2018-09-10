@@ -1,0 +1,5 @@
+#contributor : angtsusiong
+#key : 'Edit'
+#name : button edit replace
+# --
+t('button.edit')$0

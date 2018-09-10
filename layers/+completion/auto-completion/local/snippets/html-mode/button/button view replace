@@ -1,0 +1,5 @@
+#contributor : angtsusiong
+#key : 'View'
+#name : button view replace
+# --
+t('button.show')$0

@@ -1,0 +1,5 @@
+#contributor : angtsusiong
+#key : %%
+#name : <%= ... %>
+# --
+<%= $1 %>$0

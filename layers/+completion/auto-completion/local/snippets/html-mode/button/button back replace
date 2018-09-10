@@ -1,0 +1,5 @@
+#contributor : angtsusiong
+#key : 'Back'
+#name : button back replace
+# --
+t('button.back')

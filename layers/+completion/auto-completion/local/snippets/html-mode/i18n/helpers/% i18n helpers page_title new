@@ -1,0 +1,5 @@
+#contributor : angtsusiong
+#key : ihn
+#name : <%= t('helpers.page_title...', model: t('activerecord.models...')) %>
+# --
+<%= t('helpers.page_title.new', model: t('activerecord.models.$1')) %>$0

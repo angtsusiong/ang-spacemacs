@@ -2,4 +2,4 @@
 #key : iht
 #name : <%= t('helpers.the', model: t('activerecord.attributes....'), item: ) %>
 # --
-<%= t('helpers.the', model: t('activerecord.attributes.$1', item: $2)) %>
+<%= t('helpers.the', model: t('activerecord.attributes.$1'), item: $2) %>

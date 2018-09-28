@@ -1,21 +1,12 @@
 auto-save-list/
-elpa/
-export/
-ac-comphist.dat
 eproject.lst
-.smex-items
 \#*
 .places
 .cache
-/eww-bookmarks
 eshell/history
 .emacs.desktop
 .emacs.desktop.lock
-eshell/alias
-eshell/lastdir
 /url/cookies
-my-org/
-org-files/
 semanticdb/
 edts/
 .recentf
@@ -24,7 +15,6 @@ projectile.cache
 projectile-bookmarks.eld
 tramp
 elnode/
-var/
 crown/
 *.stackdump
 bookmarks
@@ -47,8 +37,4 @@ python-*-docs-html
 .mc-lists.el
 
 # Private directory
-private/
-!private/README.md
-!private/snippets/README.md
-!private/local/README.md
-/games/
+
